@@ -52,7 +52,7 @@
        <br> <h2><span>Tentang</span> Kami</h2>
         <div class="row">
             <div class="about-img">
-                <img src="tentang-kami.jpg" alt="Tentang Kami">
+                <img src="tentang-kami.jpeg" alt="Tentang Kami">
             </div>
             <div class="content">
                 <h3>Kenapa Memilih Kopi Kami?</h3>
