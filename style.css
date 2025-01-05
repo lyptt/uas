@@ -125,7 +125,7 @@ transition: 0.3s;
     min-height: 100vh;
     display: flex;
     align-items: center;
-    background-image: url('header-bg.jpg');
+    background-image: url('header-bg.jpeg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
